@@ -1,9 +1,5 @@
 <h1 align="left">Hi, I'm Abdelrahman Fekry 👋</h1> 
 
-<div>
-<iframe width="100%" height="500" frameBorder="0" src="https://cdpn.io/byteknight/fullembedgrid/XeVBbb?animations=run&type=embed"></iframe>
-</div>
-
 <h2 align="left">Connect with me:</h2>
 
 | Media  | Summary |
